@@ -9,7 +9,7 @@ Developed as a core assignment project reflecting standard executive engineering
 ## 👨‍💻 Author Credits & Ownership
 
 - **Developer**: Bhoompally Kalyan Reddy
-- **Email Contact**: [bhoompally.kalyan.reddy@gmail.com](mailto:bhoompally.kalyan.reddy@gmail.com)
+- **Email Contact**: [prsnlkalyan@gmail.com](mailto:prsnlkalyan@gmail.com)
 - **GitHub Repository**: [kalyan-1845/Resume-Builder](https://github.com/kalyan-1845/Resume-Builder)
 - **Copyright License**: MIT License (c) 2026
 
