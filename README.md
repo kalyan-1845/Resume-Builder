@@ -1,4 +1,4 @@
-# Antigravity Resume — AI-Powered Premium Resume Builder
+# ResumeCraft AI — Premium Resume Builder
 
 An advanced, responsive single-page web application that empowers users to design high-impact, recruiter-optimized resumes in real time. It balances high-end graphic design templates, local template-based fallbacks, live Google Gemini Generative AI optimizations, and direct pixel-perfect PDF vector exporting.
 

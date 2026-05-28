@@ -174,7 +174,7 @@ export const Dashboard: React.FC = () => {
             <Sparkles size={20} color="#ffffff" />
           </div>
           <div>
-            <h1 style={logoTextStyle}>Antigravity Resume</h1>
+            <h1 style={logoTextStyle}>ResumeCraft AI</h1>
             <span style={subLogoStyle}>AI-Powered Professional Creator</span>
           </div>
         </div>
