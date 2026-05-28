@@ -7,7 +7,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { 
-  Sparkles, Download, Settings, Award, Palette, 
+  FileText, Sparkles, Download, Settings, Award, Palette, 
   RotateCcw, Sun, Moon, Check 
 } from 'lucide-react';
 import { ResumeData, TemplateId, AIReviewResult } from '../types';
@@ -171,7 +171,7 @@ export const Dashboard: React.FC = () => {
       <header style={headerStyle} className="glass-panel no-print">
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
           <div style={logoBadgeStyle}>
-            <Sparkles size={20} color="#ffffff" />
+            <FileText size={20} color="#ffffff" />
           </div>
           <div>
             <h1 style={logoTextStyle}>ResumeCraft AI</h1>
